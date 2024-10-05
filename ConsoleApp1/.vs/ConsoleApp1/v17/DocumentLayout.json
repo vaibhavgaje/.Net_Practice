@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net Classes_Practice\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\classpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:classpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\sealedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:sealedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsdelegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsdelegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clstestemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clstestemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsproperty1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsproperty1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\employee8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:employee8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsgeneric1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsgeneric1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\vehicleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:vehicleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clspointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clspointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\branch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:branch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clspointer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clspointer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\nestedtrycatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:nestedtrycatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\employee6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:employee6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\userdefinedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:userdefinedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clspartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clspartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\class19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:class19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|e:\\.net classes_practice\\consoleapp1\\clsparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687A605-9638-4080-ABC7-EC93E3198B37}|ConsoleApp1.csproj|solutionrelative:clsparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassPartial.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClassPartial.cs",
+              "RelativeDocumentMoniker": "ClassPartial.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClassPartial.cs",
+              "RelativeToolTip": "ClassPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:01:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsEnum.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsEnum.cs",
+              "RelativeDocumentMoniker": "ClsEnum.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsEnum.cs",
+              "RelativeToolTip": "ClsEnum.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:47:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsEmp.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsEmp.cs",
+              "RelativeDocumentMoniker": "ClsEmp.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsEmp.cs",
+              "RelativeToolTip": "ClsEmp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:41:16.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsArithmetic.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsArithmetic.cs",
+              "RelativeDocumentMoniker": "ClsArithmetic.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsArithmetic.cs",
+              "RelativeToolTip": "ClsArithmetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:00:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SealedClass.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\SealedClass.cs",
+              "RelativeDocumentMoniker": "SealedClass.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\SealedClass.cs",
+              "RelativeToolTip": "SealedClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:33:41.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "A1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\A1.cs",
+              "RelativeDocumentMoniker": "A1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\A1.cs",
+              "RelativeToolTip": "A1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:18:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\Interface1.cs",
+              "RelativeDocumentMoniker": "Interface1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\Interface1.cs",
+              "RelativeToolTip": "Interface1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAMwGQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:40:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Branch1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\Branch1.cs",
+              "RelativeDocumentMoniker": "Branch1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\Branch1.cs",
+              "RelativeToolTip": "Branch1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:30:42.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehicleInterface.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\VehicleInterface.cs",
+              "RelativeDocumentMoniker": "VehicleInterface.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\VehicleInterface.cs",
+              "RelativeToolTip": "VehicleInterface.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:24:20.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T10:37:24.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsTestEmployee.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsTestEmployee.cs",
+              "RelativeDocumentMoniker": "ClsTestEmployee.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsTestEmployee.cs",
+              "RelativeToolTip": "ClsTestEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:49:30.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsBoxing.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsBoxing.cs",
+              "RelativeDocumentMoniker": "ClsBoxing.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsBoxing.cs",
+              "RelativeToolTip": "ClsBoxing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:07:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsDelegate1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsDelegate1.cs",
+              "RelativeDocumentMoniker": "ClsDelegate1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsDelegate1.cs",
+              "RelativeToolTip": "ClsDelegate1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:31:18.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClsProperty1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsProperty1.cs",
+              "RelativeDocumentMoniker": "ClsProperty1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsProperty1.cs",
+              "RelativeToolTip": "ClsProperty1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:03:35.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClsGeneric.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsGeneric.cs",
+              "RelativeDocumentMoniker": "ClsGeneric.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsGeneric.cs",
+              "RelativeToolTip": "ClsGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:47:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClsGeneric1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsGeneric1.cs",
+              "RelativeDocumentMoniker": "ClsGeneric1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsGeneric1.cs",
+              "RelativeToolTip": "ClsGeneric1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:10:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClsProperty.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsProperty.cs",
+              "RelativeDocumentMoniker": "ClsProperty.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsProperty.cs",
+              "RelativeToolTip": "ClsProperty.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:45:05.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee8.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\Employee8.cs",
+              "RelativeDocumentMoniker": "Employee8.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\Employee8.cs",
+              "RelativeToolTip": "Employee8.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:37:36.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClsPointer.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsPointer.cs",
+              "RelativeDocumentMoniker": "ClsPointer.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsPointer.cs",
+              "RelativeToolTip": "ClsPointer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:15:24.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CLsPointer1.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\CLsPointer1.cs",
+              "RelativeDocumentMoniker": "CLsPointer1.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\CLsPointer1.cs",
+              "RelativeToolTip": "CLsPointer1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:24:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class19.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\Class19.cs",
+              "RelativeDocumentMoniker": "Class19.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\Class19.cs",
+              "RelativeToolTip": "Class19.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:12:04.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NestedTryCatch.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\NestedTryCatch.cs",
+              "RelativeDocumentMoniker": "NestedTryCatch.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\NestedTryCatch.cs",
+              "RelativeToolTip": "NestedTryCatch.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAMwE4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:33:21.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PartialClass.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\PartialClass.cs",
+              "RelativeDocumentMoniker": "PartialClass.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\PartialClass.cs",
+              "RelativeToolTip": "PartialClass.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:07:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employee6.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\Employee6.cs",
+              "RelativeDocumentMoniker": "Employee6.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\Employee6.cs",
+              "RelativeToolTip": "Employee6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:52:03.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDefinedException.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\UserDefinedException.cs",
+              "RelativeDocumentMoniker": "UserDefinedException.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\UserDefinedException.cs",
+              "RelativeToolTip": "UserDefinedException.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:56:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClsException.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsException.cs",
+              "RelativeDocumentMoniker": "ClsException.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsException.cs",
+              "RelativeToolTip": "ClsException.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAiwIIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:51:07.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClsPartial.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsPartial.cs",
+              "RelativeDocumentMoniker": "ClsPartial.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsPartial.cs",
+              "RelativeToolTip": "ClsPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:18:53.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:49:29.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClsParent.cs",
+              "DocumentMoniker": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsParent.cs",
+              "RelativeDocumentMoniker": "ClsParent.cs",
+              "ToolTip": "E:\\.Net Classes_Practice\\ConsoleApp1\\ClsParent.cs",
+              "RelativeToolTip": "ClsParent.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:16:59.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

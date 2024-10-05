@@ -1,0 +1,11 @@
+E:\.Net Classes_Practice\SampleClassLibrary\bin\Debug\net6.0\SampleClassLibrary.deps.json
+E:\.Net Classes_Practice\SampleClassLibrary\bin\Debug\net6.0\SampleClassLibrary.dll
+E:\.Net Classes_Practice\SampleClassLibrary\bin\Debug\net6.0\SampleClassLibrary.pdb
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\SampleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\SampleClassLibrary.AssemblyInfoInputs.cache
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\SampleClassLibrary.AssemblyInfo.cs
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\SampleClassLibrary.csproj.CoreCompileInputs.cache
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\SampleClassLibrary.dll
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\refint\SampleClassLibrary.dll
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\SampleClassLibrary.pdb
+E:\.Net Classes_Practice\SampleClassLibrary\obj\Debug\net6.0\ref\SampleClassLibrary.dll
